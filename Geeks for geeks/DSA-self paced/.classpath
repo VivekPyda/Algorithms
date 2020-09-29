@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="Heaps"/>
+	<classpathentry kind="src" path="Heap"/>
 	<classpathentry kind="src" path="Introduction"/>
 	<classpathentry kind="src" path="Mathematics"/>
 	<classpathentry kind="src" path="Bit Magic"/>
