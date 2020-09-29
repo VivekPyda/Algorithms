@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Heaps"/>
+	<classpathentry kind="src" path="Introduction"/>
+	<classpathentry kind="src" path="Mathematics"/>
+	<classpathentry kind="src" path="Bit Magic"/>
+	<classpathentry kind="src" path="Recursion"/>
+	<classpathentry kind="src" path="Arrays"/>
+	<classpathentry kind="src" path="Searching"/>
+	<classpathentry kind="src" path="Sorting"/>
+	<classpathentry kind="src" path="Matrix"/>
+	<classpathentry kind="src" path="Hashing"/>
+	<classpathentry kind="src" path="Strings"/>
+	<classpathentry kind="src" path="Linked List"/>
+	<classpathentry kind="src" path="Stack"/>
+	<classpathentry kind="src" path="Queue"/>
+	<classpathentry kind="src" path="Deque"/>
+	<classpathentry kind="src" path="Tree"/>
+	<classpathentry kind="src" path="Binary Search Tree"/>
+	<classpathentry kind="src" path="Graph"/>
+	<classpathentry kind="src" path="Greedy"/>
+	<classpathentry kind="src" path="Backtracking"/>
+	<classpathentry kind="src" path="Dynamic Programming"/>
+	<classpathentry kind="src" path="Trie"/>
+	<classpathentry kind="src" path="Segment and Binary Indexed Tree"/>
+	<classpathentry kind="src" path="Disjoint Set"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
